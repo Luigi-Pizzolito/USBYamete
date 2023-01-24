@@ -24,6 +24,7 @@ import (
 var sfx embed.FS
 
 func main() {
+	fmt.Println("Insert/Remove USB devices for a surprise.")
 	fmt.Println("Launching USBYamete daemon.")
 	// To terminate the daemon use:
 	//  kill `cat daemon.pid`
