@@ -1,0 +1,19 @@
+# github.com/cheekybits/is v0.0.0-20150225183255-68e9c0620927
+## explicit
+# github.com/cocoonlife/goalsa v0.0.0-20211008122401-47ec570866e3
+## explicit
+github.com/cocoonlife/goalsa
+# github.com/cocoonlife/testify v0.0.0-20160218172820-792cc1faeb64
+## explicit
+# github.com/cryptix/wav v0.0.0-20180415113528-8bdace674401
+## explicit
+github.com/cryptix/wav
+# github.com/kardianos/osext v0.0.0-20190222173326-2bc1f35cddc0
+## explicit
+github.com/kardianos/osext
+# github.com/sevlyar/go-daemon v0.1.6
+## explicit
+github.com/sevlyar/go-daemon
+# golang.org/x/sys v0.4.0
+## explicit; go 1.17
+golang.org/x/sys/unix
